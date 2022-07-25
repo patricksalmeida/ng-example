@@ -14,7 +14,7 @@
         "pre-commit": "pretty-quick --staged && ng lint && ng test",
         "pre-push": "ng build --aot true"
     }
-  }
+  },
   "dependencies": {
     "@angular/animations": "^14.0.0",
     "@angular/common": "^14.0.0",
